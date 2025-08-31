@@ -1,5 +1,8 @@
 # QuantumCA™ Dashboard
 
+[![CI](https://github.com/futuretechvision-global/quantumca/actions/workflows/ci.yml/badge.svg)](https://github.com/futuretechvision-global/quantumca/actions/workflows/ci.yml)
+[![Deploy](https://github.com/futuretechvision-global/quantumca/actions/workflows/deploy.yml/badge.svg)](https://github.com/futuretechvision-global/quantumca/actions/workflows/deploy.yml)
+
 A futuristic, glassmorphic AI-powered dashboard system designed for 2050-ready adaptive intelligence.  
 This project provides a **modular, transparent, and extensible UI framework** for QuantumCA™.
 
